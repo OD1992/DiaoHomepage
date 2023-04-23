@@ -1,13 +1,13 @@
 #**************************** Research interests ******************************************
-I am interested in the mathematical modelling of infectious diseases such as Malaria, particularly in Senegal, and more recently COVID-19.
+<br>I am interested in the mathematical modelling of infectious diseases such as Malaria, particularly in Senegal, and more recently COVID-19.
 Hello! I am currently doing my PhD with Pierre-Antoine Absil (UCLouvain\ICTEAM, Louvain-la-Neuve, Belgium) and Mouhamadou Diallo (Molecular Biology Unit/Bacteriology-Virology Lab, CNHU A. Le Dantec / Université Cheikh Anta Diop, Dakar, Sénégal).
 
 #**************************** Contact *****************************************************
-Ousmane Diao
-Email: ousmane.diao@uclouvain.be
-Research Team: SST/ICTM/INMA
-Address: Avenue Georges Lemaître 4-6 bte L4.05.01 1348 Louvain-la-Neuve, Belgium
-Office: A0021 (level 0)
+<br>Ousmane Diao
+<br>Email: ousmane.diao@uclouvain.be
+<br>Research Team: SST/ICTM/INMA
+<br>Address: Avenue Georges Lemaître 4-6 bte L4.05.01 1348 Louvain-la-Neuve, Belgium
+<br>Office: A0021 (level 0)
 
 #**************************** Publications *************************************************
 <!-- wp:html -->
@@ -27,12 +27,12 @@ malaria incidence in three endemic regions of Senegal, article submitted.
 <br>39th Benelux Meeting, Netherlands.
 </p>
 
-<p>2-(2021), Ousmane Diao, <q>An SIR-type model for COVID-19 hospitalization
-forecasts</q> <br> Abstract <a href="https://www.dropbox.com/s/b8anm6h2imxv1s4/Benelux_2021_abstract.pdf?dl=0" "="">link</a> and Slides <a href="https://www.dropbox.com/s/zxo3vnoz583rmxw/Slides_benelux_2021_06_28.pdf?dl=0&quot;">link</a>
+<p>2-(2021), Ousmane Diao, <q>An SIR-type model for COVID-19 hospitalization forecasts</q> 
+<br> Abstract <a href="https://www.dropbox.com/s/b8anm6h2imxv1s4/Benelux_2021_abstract.pdf?dl=0&quot;">(link)</a> and Slides <a href="https://www.dropbox.com/s/zxo3vnoz583rmxw/Slides_benelux_2021_06_28.pdf?dl=0&quot;"> (link)</a>
 <br> 40th Benelux Meeting, Rotterdam, Netherlands.
 </p>
 
-<p>3- (2022), Ousmane Diao, <q>Modelling malaria incidence by a <br> generalized linear model based on meteorological factors <br> in three endemic regions, Senegal</q> 
+<p>3- (2022), Ousmane Diao, <q>Modelling malaria incidence by a generalized linear model based on meteorological factors in three endemic regions, Senegal</q> 
 <br> Abstract <a href="https://www.dropbox.com/s/omyzy7jxa6o3zmv/main_conf_eeid_2022_Atlanta_2022_03_14.pdf?dl=0&quot;"> link </a> and Poster <a href="https://www.dropbox.com/s/zywc8hnrb42oe6b/poster_Ousmane_EEID2022.pdf?dl=0&quot;"> link</a>
 <br> Ecology and Evolution of Infectious Diseases EEID 2022.
 </p>
@@ -49,11 +49,11 @@ forecasts</q> <br> Abstract <a href="https://www.dropbox.com/s/b8anm6h2imxv1s4/B
 
 #********************************* Teaching activities, UCLouvain **********************
 <!-- /wp:html -->
-1- Analyse I (LEPL1102), Teaching assistant, 2019.
+<br>1- Analyse I (LEPL1102), Teaching assistant, 2019.
 <br>2- Analyse I (LEPL1102), Teaching assistant, 2020.
 <br>3- Analyse II (LEPL1105), Moodle management, 2021.
   
 #******************************* CV *******************************************************
 <!-- /wp:html -->
-The CV can be dowloaded here:
-<br><div class="wp-block-file"><a id="wp-block-file--media-6c1dfe52-c3b1-45e4-888a-78394eabbb8c" href="https://www.dropbox.com/s/ki4bl46v72fzp3u/CV_Ousmane.pdf?dl=0"> </a><a href="https://www.dropbox.com/s/ki4bl46v72fzp3u/CV_Ousmane.pdf?dl=0" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-6c1dfe52-c3b1-45e4-888a-78394eabbb8c"> download </a></div>
+<br>The CV can be dowloaded here:
+<br><a id="wp-block-file--media-6c1dfe52-c3b1-45e4-888a-78394eabbb8c" href="https://www.dropbox.com/s/ki4bl46v72fzp3u/CV_Ousmane.pdf?dl=0"> </a><a href="https://www.dropbox.com/s/ki4bl46v72fzp3u/CV_Ousmane.pdf?dl=0" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-6c1dfe52-c3b1-45e4-888a-78394eabbb8c"> download </a>

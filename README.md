@@ -37,8 +37,7 @@ forecasts</q> <br> Abstract <a href="https://www.dropbox.com/s/b8anm6h2imxv1s4/B
 <br> Ecology and Evolution of Infectious Diseases EEID 2022.
 </p>
 
-<p>4- (2022), Ousmane Diao, <q> Saturated pluviometry as explanatory variable
-to forecast malaria incidence </q> 
+<p>4- (2022), Ousmane Diao, <q> Saturated pluviometry as explanatory variable to forecast malaria incidence </q> 
 <br> Abstract <a href="https://www.dropbox.com/s/joswvb0zpc73i5l/Abstract_ICTMM2022.pdf?dl=0;"> link </a> and Poster <a href="https://www.dropbox.com/s/sbcuo6fqluw70zo/Poster_ICTMM_2022.pdf?dl=0;"> link</a>
 <br> International Congress for Tropical Medicine and Malaria (ICTMM), 24-28 October 2022, in the Bangkok International Trade & Exhibition Centre (BITEC), Thailand.
 </p>
@@ -51,9 +50,9 @@ to forecast malaria incidence </q>
 #********************************* Teaching activities, UCLouvain **********************
 <!-- /wp:html -->
 1- Analyse I (LEPL1102), Teaching assistant, 2019.
-2- Analyse I (LEPL1102), Teaching assistant, 2020.
-3- Analyse II (LEPL1105), Moodle management, 2021.
+<br>2- Analyse I (LEPL1102), Teaching assistant, 2020.
+<br>3- Analyse II (LEPL1105), Moodle management, 2021.
   
 #******************************* CV *******************************************************
 <!-- /wp:html -->
-<div class="wp-block-file"><a id="wp-block-file--media-6c1dfe52-c3b1-45e4-888a-78394eabbb8c" href="https://www.dropbox.com/s/ki4bl46v72fzp3u/CV_Ousmane.pdf?dl=0">cv-ousmane-2</a><a href="https://www.dropbox.com/s/ki4bl46v72fzp3u/CV_Ousmane.pdf?dl=0" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-6c1dfe52-c3b1-45e4-888a-78394eabbb8c">Télécharger</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-6c1dfe52-c3b1-45e4-888a-78394eabbb8c" href="https://www.dropbox.com/s/ki4bl46v72fzp3u/CV_Ousmane.pdf?dl=0">The CV can be dowloaded here: </a><a href="https://www.dropbox.com/s/ki4bl46v72fzp3u/CV_Ousmane.pdf?dl=0" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-6c1dfe52-c3b1-45e4-888a-78394eabbb8c"> download </a></div>

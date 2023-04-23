@@ -11,17 +11,16 @@ Office: A0021 (level 0)
 
 #**************************** Publications *************************************************
 <!-- wp:html -->
-<p>1- (2020), P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, <q>Assessment of <br>COVID-19 hospitalization forecast from a simplified SIR model</q> 
-<br>Article published in LETTERS IN BIOMATHEMATICS, An International Journal
+<p>1- (2020), P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, <q>Assessment of COVID-19 hospitalization forecast from a simplified SIR model</q>, article published in LETTERS IN BIOMATHEMATICS, an International Journal
 <a href="https://lettersinbiomath.journals.publicknowledgeproject.org/index.php/lib/article/view/403">URL</a>
 </p>
 
 <!-- wp:html -->
-<p>2- (2023), O. Diao, P.-A. Absil, and M. Diallo,<q> Generalized linear models to forecast
-malaria incidence in three endemic regions of Senegal<q>, article submitted.
+<p>2- (2023), O. Diao, P.-A. Absil, and M. Diallo, Generalized linear models to forecast
+malaria incidence in three endemic regions of Senegal, article submitted.
   </p>
 
-  #************************** Conferences **************************************************
+#***********************  Conferences **************************************************
   <!-- /wp:html -->
 <p>1-(2020), Ousmane Diao, <q>Mathematical modelling of malaria transmission taking into account the influence of current<br>prevention and treatment</q>
 <br> Abstract <a href="https://www.dropbox.com/s/n451fxy7l2uns4r/main_benelux.pdf?dl=0&quot;">link</a> and Slides <a href="https://www.dropbox.com/s/soz1pnpa699tfm7/benelux%20presentation%20new.pdf?dl=0&quot;">link</a>

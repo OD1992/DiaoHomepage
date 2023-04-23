@@ -1,11 +1,15 @@
-#**************************** Publications *****************************
+#***************************** Research interests ******************************************
+
+I am interested in the mathematical modelling of infectious diseases such as Malaria, particularly in Senegal, and more recently COVID-19.
+
+#**************************** Publications *************************************************
 <!-- wp:html -->
 <p>(2020), P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, <q>Assessment of <br>COVID-19 hospitalization forecast from a simplified SIR model</q> 
 <br>Article published in LETTERS IN BIOMATHEMATICS, An International Journal
 <a href="https://lettersinbiomath.journals.publicknowledgeproject.org/index.php/lib/article/view/403">URL</a>
 </p>
 <!-- /wp:html -->
-#******************************* Conferences *******************************
+#******************************* Conferences ***********************************************
 <p>1-(2020), Ousmane Diao, <q>Mathematical modelling of malaria transmission taking into account the influence of current<br>prevention and treatment</q>
 <br> Abstract <a href="https://www.dropbox.com/s/n451fxy7l2uns4r/main_benelux.pdf?dl=0&quot;">link</a> and Slides <a href="https://www.dropbox.com/s/soz1pnpa699tfm7/benelux%20presentation%20new.pdf?dl=0&quot;">link</a>
 <br>39th Benelux Meeting, Netherlands.

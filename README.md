@@ -17,25 +17,25 @@ Hello! I am currently doing my PhD with Pierre-Antoine Absil (UCLouvain\ICTEAM, 
 
 <h1>Publications </h1>
 <br>2020
-<br><p> P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, <q>Assessment of COVID-19 hospitalization forecast from a simplified SIR model</q>, article published in LETTERS IN BIOMATHEMATICS, an International Journal
+<br> P.-A. Absil, Ousmane Diao, Mouhamadou Diallo, <q>Assessment of COVID-19 hospitalization forecast from a simplified SIR model</q>, article published in LETTERS IN BIOMATHEMATICS, an International Journal
 <a href="https://lettersinbiomath.journals.publicknowledgeproject.org/index.php/lib/article/view/403">URL</a>
-</p>
+
 <br>2023
-<p>O. Diao, P.-A. Absil, and M. Diallo, Generalized linear models to forecast
+<br>O. Diao, P.-A. Absil, and M. Diallo, Generalized linear models to forecast
 malaria incidence in three endemic regions of Senegal, article submitted.
-  </p>
+  
 
 <h1>Conferences</h1>
 <br>2020
-<br><p>Ousmane Diao, <q>Mathematical modelling of malaria transmission taking into account the influence of current<br>prevention and treatment</q>
+<br>Ousmane Diao, <q>Mathematical modelling of malaria transmission taking into account the influence of current<br>prevention and treatment</q>
 <br> Abstract <a href="https://www.dropbox.com/s/n451fxy7l2uns4r/main_benelux.pdf?dl=0&quot;">link</a> and Slides <a href="https://www.dropbox.com/s/soz1pnpa699tfm7/benelux%20presentation%20new.pdf?dl=0&quot;">link</a>
 <br>39th Benelux Meeting, Netherlands.
-</p>
+
 <br>2021
-<br><p>Ousmane Diao, <q>An SIR-type model for COVID-19 hospitalization forecasts</q> 
+<br>Ousmane Diao, <q>An SIR-type model for COVID-19 hospitalization forecasts</q> 
 <br> Abstract <a href="https://www.dropbox.com/s/b8anm6h2imxv1s4/Benelux_2021_abstract.pdf?dl=0&quot;">(link)</a> and Slides <a href="https://www.dropbox.com/s/zxo3vnoz583rmxw/Slides_benelux_2021_06_28.pdf?dl=0&quot;"> (link)</a>
 <br> 40th Benelux Meeting, Rotterdam, Netherlands.
-</p>
+
 <br>2022
 <br><p>Ousmane Diao, <q>Modelling malaria incidence by a generalized linear model based on meteorological factors in three endemic regions, Senegal</q> 
 <br> Abstract <a href="https://www.dropbox.com/s/omyzy7jxa6o3zmv/main_conf_eeid_2022_Atlanta_2022_03_14.pdf?dl=0&quot;"> link </a> and Poster <a href="https://www.dropbox.com/s/zywc8hnrb42oe6b/poster_Ousmane_EEID2022.pdf?dl=0&quot;"> link</a>
@@ -47,10 +47,10 @@ malaria incidence in three endemic regions of Senegal, article submitted.
 <br> International Congress for Tropical Medicine and Malaria (ICTMM), 24-28 October 2022, in the Bangkok International Trade & Exhibition Centre (BITEC), Thailand.
 </p>
 <br>2023
-<br><p>Ousmane Diao, <q> Optimization methods for generalized linear models</q>
+<br>Ousmane Diao, <q> Optimization methods for generalized linear models</q>
 <br> Abstract <a href="https://www.dropbox.com/s/eu58jaizrh2w7nd/OusmaneDiao.pdf?dl=0">link</a> and Slides <a href="https://www.dropbox.com/s/b6x5fw646gimw83/Presentations_benelux_2023.pdf?dl=0">link</a>
 <br>42th Benelux Meeting, Netherlands.
-</p>
+
 
 <h1>Teaching activities, UCLouvain</h1>
 <br>1- Analyse I (LEPL1102), Teaching assistant, 2019.
